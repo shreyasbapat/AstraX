@@ -304,12 +304,12 @@ header .intro-text {
 }
 /* Services Section */
 #services {
-	padding: 100px 0;
+	padding: 100px 50px 100px 0;
 	background: linear-gradient(to right, #391217 0%, #64212a 100%);
 	color: #fff;
 }
 #services .service-desc {
-	margin: 10px 10px 20px;
+	margin: 50px 10px 20px;
 }
 #services h2 {
 	color: #fff;
@@ -410,9 +410,9 @@ header .intro-text {
 }
 .testimonial-image, .testimonial-image img {
 	display: block;
-	width: 64px;
-	height: 64px;
-	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+	border-radius:100%;
 }
 .testimonial-content {
 	position: relative;
@@ -421,23 +421,26 @@ header .intro-text {
 .testimonial-content p {
 	margin-bottom: 0;
 	font-size: 14px;
-	font-style: italic;
+
 }
 .testimonial-meta {
-	margin-top: 10px;
+	margin-top: 20px;
 	font-size: 15px;
 	font-weight: 600;
+	margin-left: 50px;
+	/* text-align: center; */
 	color: #666;
 }
 /* Team Section */
 #team {
-	padding: 100px 0;
+	padding: 100px 100px 100px 100px;
 }
 #team h4 {
 	margin: 5px 0;
 }
 #team .team-img {
 	width: 240px;
+	border-radius: 50%;
 }
 #team .thumbnail {
 	background: transparent;
