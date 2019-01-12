@@ -1,2 +1,2 @@
-# Enigma
-Not something to stalk atleast (For Now)
+# AstraX - IIT Mandi
+For more details, visit : https://astrax.stac-iitmandi.org/
